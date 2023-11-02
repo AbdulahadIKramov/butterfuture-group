@@ -57,7 +57,6 @@
 .item {
   color: var(--gray-800, #1f2937);
   font-size: 16px;
-  font-family: Poppins;
   font-style: normal;
   font-weight: 400;
   line-height: 16px; 

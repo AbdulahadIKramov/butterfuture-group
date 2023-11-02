@@ -133,11 +133,12 @@ input {
     
     .contect_left {
         width: 100%;
+        padding: 0;
     }
 
     .title {
         font-size: 20px;
-        margin-top: 32px;
+        margin-top: 80px;
         line-height: 32px;
     }
     .text {
