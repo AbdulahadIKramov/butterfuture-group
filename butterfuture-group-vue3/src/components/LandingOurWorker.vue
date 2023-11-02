@@ -74,7 +74,7 @@
         </div>
 
         <div class="image">
-            <img src="../assets/worker_3.png" alt="carul image" />
+            <img src="../assets/worker_3.png" alt="carucel image" />
             <p><b>Name</b></p>
             <p>Designation</p>
           </div>

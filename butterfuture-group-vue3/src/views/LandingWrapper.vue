@@ -1,9 +1,9 @@
 <template>
     <div>
 		<LandingNavbar/>
-    <LandingMenu/>
+    <LandingMenu />
     <LandingEduCoozin/>
-    <LandingWhyUs/>
+    <LandingWhyUs />
     <LandingCantact/>
     <LandingCarucel/>
     <LandingOurWorker/>
